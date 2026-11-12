@@ -1,0 +1,7 @@
+{
+  "name": "PayGuard AI",
+  "description": "Payment safety and risk signal intelligence assistant for small businesses with PayPal sandbox integration and explainable AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

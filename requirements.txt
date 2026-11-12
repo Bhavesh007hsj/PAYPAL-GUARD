@@ -1,0 +1,4 @@
+# PayGuard AI - Python Dependencies
+# Lightweight dependencies for Python Risk Engine & PayPal Sandbox SDK scripts
+requests>=2.31.0
+python-dotenv>=1.0.0
